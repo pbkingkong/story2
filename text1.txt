@@ -1,4 +1,4 @@
-Git statDie erste Zeile habe ich in der 4.Version verändert.
+Das ist die erste Zeile (Aliens).
 
 Das ist der zweite Text, den ich hinzugefügt habe.
 
