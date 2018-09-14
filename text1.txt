@@ -1,1 +1,11 @@
-Das ist ein erster Text.
+Git statDie erste Zeile habe ich in der 4.Version verändert.
+
+Das ist der zweite Text, den ich hinzugefügt habe.
+
+Hier habe ich in der 5.Version eine Zeile eingefügt.
+
+Das ist der dritte Text, den ich eingefügt habe.
+
+Jetzt kommen die Aliens ins Spiel.
+
+Jetzt kommen sie wirklich ins Spiel.
